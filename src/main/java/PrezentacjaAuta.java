@@ -3,6 +3,7 @@ import impl.*;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 
+
 /**
  * Zadanie na podsumowanie wiedzy ze Spring core.
  * Projekt ma używać konfiguracji z klasą i ComponentScan. Biny mają być zdefiniowane w klasach.
